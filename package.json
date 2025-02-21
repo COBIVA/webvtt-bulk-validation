@@ -1,0 +1,12 @@
+{
+
+    "type": "module",
+
+    "dependencies": {
+
+        "webvtt-parser": "^2.2.0"
+
+    }
+
+}
+
